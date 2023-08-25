@@ -22,3 +22,14 @@ class _AndroidRouteState extends State<AndroidRoute> {
     );
   }
 }
+
+
+
+/*al*/
+/*wordtune.com
+perplexity.ai
+spacecopilot
+compose.al
+scribe
+Al prompt Genius
+Glasp youtube summary*/
